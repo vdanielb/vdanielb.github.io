@@ -408,13 +408,6 @@ ninja.data = [{
           window.open("mailto:%64%68%61%72%6D%61.%64%61%6E%69%65%6C%32%38%30%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/vdanielb", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -422,11 +415,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/vdanielb", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/vdanielb", "_blank");
         },
       },{
       id: 'light-theme',
