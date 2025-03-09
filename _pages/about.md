@@ -4,7 +4,8 @@ title: about
 permalink: /
 subtitle: 
 
-profile: #Right side profile pictues and description
+#Right side profile pictues and description
+profile: 
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
