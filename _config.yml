@@ -181,6 +181,7 @@ exclude:
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _posts/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
