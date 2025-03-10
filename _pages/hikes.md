@@ -2,12 +2,12 @@
 layout: page
 permalink: /hikes/
 title: hikes
-description: Pictures of places I've hiked in.
+description: pictures of places I've hiked in
 nav: true
 nav_order: 2
 ---
 
-I think my high school made me enjoy hiking and just walking through nature, but it wasn't until I got to the U.S. that I started hiking myself. Nature areas in America are well maintained and beautiful. I use the word "hike" a bit liberally.
+I think my high school made me enjoy hiking and walking through nature, but it wasn't until I got to the U.S. that I started hiking myself. Nature areas in America are well maintained and beautiful. Anyway, here are some pictures from some of the places I've gone hiking. I use the word "hike" a bit liberally.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

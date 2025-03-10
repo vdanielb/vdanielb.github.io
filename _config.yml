@@ -48,10 +48,10 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
-search_enabled: true
+footer_fixed: false
+search_enabled: false #search bar
 socials_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -174,8 +174,7 @@ include: ["_pages", "_scripts"]
 exclude:
   - _pages/blog.md
   - _pages/books.md
-  - _pages/cv.md
-  - _pages/dropdown.md
+  - _pages/more.md
   - _pages/news.md
   - _pages/projects.md
   - _pages/publications.md
