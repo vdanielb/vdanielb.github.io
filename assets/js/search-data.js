@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-hikes",
           title: "hikes",
-          description: "Pictures of places I&#39;ve hiked in.",
+          description: "pictures of places I&#39;ve hiked in",
           section: "Navigation",
           handler: () => {
             window.location.href = "/hikes/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/assets/pdf/resume.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
