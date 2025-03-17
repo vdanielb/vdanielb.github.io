@@ -28,6 +28,6 @@ latest_posts:
 
 Hi there!  
   
-My full name is Vincentius Daniel Budidharma, but I prefer to be called **Daniel**. I'm currently studying at UCSD. My interests include machine learning, statistics, and data science. Outside of coding, I enjoy watching films and [hiking](/hikes/).
+My full name is Vincentius Daniel Budidharma, but I prefer to be called **Daniel**. I'm currently a student at UCSD. My interests include machine learning, statistics, and data science. Outside of coding, I enjoy watching films and [hiking](/hikes/).
 
-Click [here](/assets/pdf/resume.pdf/) for my resume!
+Click [here](/assets/pdf/resume.pdf){:target="_blank"} for my resume!
