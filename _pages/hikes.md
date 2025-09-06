@@ -60,3 +60,15 @@ nav_order: 2
 <div class="caption">
     Noboribetsu Jigokudani, Hokkaido, Japan
 </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hikes/sylvia_hill.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/hikes/pulau_padar.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Sylvia Hill and Pulau Padar, Labuan Bajo, Indonesia
+</div>
