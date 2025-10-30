@@ -31,10 +31,11 @@ Hi there!
 My full name is Vincentius Daniel Budidharma, but I prefer to be called **Daniel**. I'm currently a student at UCSD. My interests include machine learning, statistics, databases, and data science. Outside of coding, I enjoy watching films and [hiking](/hikes/). 
 
 What I'm working on right now:
-- **E4E's Acoustic Species ID project**. We're creating a desktop app for audio data annotation to use for our animal identification ML model. I primarily work on database management and crafting SQL queries.
-- **Data Science tutor for UCSD**. I've tutored for DSC10 and DSC30.
+- **E4E's Acoustic Species ID project** ([GitHub](https://github.com/UCSD-E4E/pyrenote-desk)). We're creating a desktop app for audio data annotation to use for our animal identification ML model. I primarily work on database management and crafting SQL queries.
+- **PERMIAS SDIA's Website**. I'm building PERMIAS SDIA's first website at https://www.permiassdia.com. 
+- **Data Science tutor for UCSD**. I've tutored for DSC10, DSC30, and DSC40A.
 - **Food Rescue Routing & Impact Tracker** with Data Science Alliance as a recipient of the HDSI Undergraduate Scholarship.
 
-This website is still being built. I plan to showcase some projects and maybe add a page dedicated to showing my favourite films in the future.
+This website is still being built. I plan to showcase some projects and maybe add a page dedicated to showing my favourite films in the future. Maybe also migrate to React + NextJS. 
 
 Click [here](/assets/pdf/resume.pdf){:target="_blank"} for my resume!
